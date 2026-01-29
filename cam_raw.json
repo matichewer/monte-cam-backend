@@ -1,0 +1,14 @@
+{
+    "cameras": [
+        {
+            "id": "monte_01",
+            "name": "Camara lejana",
+            "url": "https://stream.castr.com/68b1b2aeaeaff7dfd7fc9b9d/live_3d49333084e511f0a56a8d373be14d1c/tracks-v1/index.fmp4.m3u8"
+        },
+        {
+            "id": "monte_02",
+            "name": "Camara centro",
+            "url": "https://stream.castr.com/68b1b2aeaeaff7dfd7fc9b9d/live_38c0d67090ce11f090ea25e316a68570/tracks-v1/index.fmp4.m3u8"
+        }
+    ]
+}
