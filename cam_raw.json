@@ -9,6 +9,31 @@
             "id": "monte_02",
             "name": "Camara centro",
             "url": "https://stream.castr.com/68b1b2aeaeaff7dfd7fc9b9d/live_38c0d67090ce11f090ea25e316a68570/tracks-v1/index.fmp4.m3u8"
+        },
+        {
+            "id": "monte_03",
+            "name": "Camara medialuna",
+            "url": "https://encoder-1b.montevision.com.ar/live/monte1.m3u8"
+        },
+        {
+            "id": "monte_04",
+            "name": "Camara peatonal",
+            "url": "https://encoder-1b.montevision.com.ar/live/monte2.m3u8"
+        },
+        {
+            "id": "monte_05",
+            "name": "Camara edificios",
+            "url": "https://encoder-1b.montevision.com.ar/live/monte3.m3u8"
+        },
+        {
+            "id": "monte_06",
+            "name": "Camara playa",
+            "url": "https://encoder-1b.montevision.com.ar/live/monte4.m3u8"
+        },
+        {
+            "id": "monte_07",
+            "name": "Camara entrada Monte",
+            "url": "https://encoder-1b.montevision.com.ar/live/monte5.m3u8"
         }
     ]
 }
