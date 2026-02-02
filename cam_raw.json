@@ -1,39 +1,39 @@
 {
     "cameras": [
         {
-            "id": "monte_01",
-            "name": "Camara lejana",
-            "url": "https://stream.castr.com/68b1b2aeaeaff7dfd7fc9b9d/live_3d49333084e511f0a56a8d373be14d1c/tracks-v1/index.fmp4.m3u8"
-        },
-        {
-            "id": "monte_02",
-            "name": "Camara centro",
-            "url": "https://stream.castr.com/68b1b2aeaeaff7dfd7fc9b9d/live_38c0d67090ce11f090ea25e316a68570/tracks-v1/index.fmp4.m3u8"
-        },
-        {
-            "id": "monte_03",
-            "name": "Camara medialuna",
+            "id": "01",
+            "name": "Cámara medialuna",
             "url": "https://encoder-1b.montevision.com.ar/live/monte1.m3u8"
         },
         {
-            "id": "monte_04",
-            "name": "Camara peatonal",
+            "id": "02",
+            "name": "Cámara peatonal",
             "url": "https://encoder-1b.montevision.com.ar/live/monte2.m3u8"
         },
         {
-            "id": "monte_05",
-            "name": "Camara edificios",
+            "id": "03",
+            "name": "Cámara edificios",
             "url": "https://encoder-1b.montevision.com.ar/live/monte3.m3u8"
         },
         {
-            "id": "monte_06",
-            "name": "Camara playa",
+            "id": "04",
+            "name": "Cámara playa cerca",
             "url": "https://encoder-1b.montevision.com.ar/live/monte4.m3u8"
         },
         {
-            "id": "monte_07",
-            "name": "Camara entrada Monte",
+            "id": "05",
+            "name": "Cámara entrada MH",
             "url": "https://encoder-1b.montevision.com.ar/live/monte5.m3u8"
+        }
+        {
+            "id": "06",
+            "name": "Cámara playa de lejos",
+            "url": "https://stream.castr.com/68b1b2aeaeaff7dfd7fc9b9d/live_3d49333084e511f0a56a8d373be14d1c/tracks-v1/index.fmp4.m3u8"
+        },
+        {
+            "id": "07",
+            "name": "Cámara centro",
+            "url": "https://stream.castr.com/68b1b2aeaeaff7dfd7fc9b9d/live_38c0d67090ce11f090ea25e316a68570/tracks-v1/index.fmp4.m3u8"
         }
     ]
 }
