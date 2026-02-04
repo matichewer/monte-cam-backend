@@ -1,39 +1,39 @@
 {
-    "cameras": [
+    "cameras": [        
         {
             "id": "01",
-            "name": "Cámara medialuna",
-            "url": "https://encoder-1b.montevision.com.ar/live/monte1.m3u8"
-        },
-        {
-            "id": "02",
-            "name": "Cámara peatonal",
-            "url": "https://encoder-1b.montevision.com.ar/live/monte2.m3u8"
-        },
-        {
-            "id": "03",
-            "name": "Cámara edificios",
-            "url": "https://encoder-1b.montevision.com.ar/live/monte3.m3u8"
-        },
-        {
-            "id": "04",
             "name": "Cámara playa cerca",
             "url": "https://encoder-1b.montevision.com.ar/live/monte4.m3u8"
         },
         {
-            "id": "05",
-            "name": "Cámara entrada MH",
-            "url": "https://encoder-1b.montevision.com.ar/live/monte5.m3u8"
-        },
-        {
-            "id": "06",
+            "id": "02",
             "name": "Cámara playa de lejos",
             "url": "https://stream.castr.com/68b1b2aeaeaff7dfd7fc9b9d/live_3d49333084e511f0a56a8d373be14d1c/tracks-v1/index.fmp4.m3u8"
         },
         {
-            "id": "07",
-            "name": "Cámara centro",
+            "id": "03",
+            "name": "Cámara medialuna",
+            "url": "https://encoder-1b.montevision.com.ar/live/monte1.m3u8"
+        },
+        {
+            "id": "04",
+            "name": "Cámara playa centro",
             "url": "https://stream.castr.com/68b1b2aeaeaff7dfd7fc9b9d/live_38c0d67090ce11f090ea25e316a68570/tracks-v1/index.fmp4.m3u8"
+        },
+        {
+            "id": "05",
+            "name": "Cámara peatonal",
+            "url": "https://encoder-1b.montevision.com.ar/live/monte2.m3u8"
+        },
+        {
+            "id": "06",
+            "name": "Cámara edificios",
+            "url": "https://encoder-1b.montevision.com.ar/live/monte3.m3u8"
+        },
+        {
+            "id": "07",
+            "name": "Cámara entrada MH",
+            "url": "https://encoder-1b.montevision.com.ar/live/monte5.m3u8"
         }
     ]
 }
